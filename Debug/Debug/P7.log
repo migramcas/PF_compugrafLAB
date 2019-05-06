@@ -1,0 +1,16 @@
+﻿  LabCG_PF.cpp
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(436): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1255): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1261): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1364): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1528): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1534): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1540): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1546): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1677): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1678): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1682): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1683): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1685): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\miguel\desktop\cg_proylab\proy_final_labcgv2\proy_labcg\p7\labcg_pf.cpp(1686): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  P7.vcxproj -> C:\Users\miguel\Desktop\CG_proyLab\proy_Final_LabcgV2\proy_labCG\Debug\PF_CG_Lab.exe
